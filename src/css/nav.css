@@ -1,0 +1,28 @@
+nav {
+    float: left;
+    width: 20%;
+    padding: 20px;
+    background-color: #f1f1f1;
+    height: 660px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0%;
+}
+a  {
+    color: rgb(173, 2, 11)
+}
+
+hr {
+    border-style: dashed;
+}
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(33, 28, 65);
+    margin:15%;
+
+}
